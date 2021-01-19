@@ -8,3 +8,5 @@ We were trained using git on the CLI.
 `git push -u origin main`
 only necessary once
 
+**Nice Work!**
+
